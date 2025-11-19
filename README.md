@@ -71,9 +71,6 @@ Aucun environnement particulier n'est requis.
 
 Il suffit de cloner le projet puis d'ouvrir index.html dans un navigateur :
 
-git clone https://github.com/nom-utilisateur/nom-du-projet.git
-cd nom-du-projet
-
 
 Puis double-cliquer sur :
 
